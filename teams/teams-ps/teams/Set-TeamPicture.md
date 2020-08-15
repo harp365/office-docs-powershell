@@ -35,7 +35,7 @@ Set-TeamPicture -GroupId <String> -ImagePath <String> [<CommonParameters>]
 
 ### Example 1
 ```
-Set-TeamPicture -GroupId 2f162b0e-36d2-4e15-8ba3-ba229cecdccf -ImagePath c:\Image\TeamPictire.png
+Set-TeamPicture -GroupId 2f162b0e-36d2-4e15-8ba3-ba229cecdccf -ImagePath C:\Image\TeamPicture.png
 ```
 
 ## PARAMETERS
